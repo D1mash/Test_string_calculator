@@ -1,5 +1,5 @@
 # Test_string_calculator
-Implemented string calculator in Java: user makes changes with arithmetic expression in infix notation, the calculator calculates its value.
+**Implemented string calculator in Java: user makes changes with arithmetic expression in infix notation, the calculator calculates its value.**
 
 * Functional:
   - Binary functions: +, -, ×, ÷.
